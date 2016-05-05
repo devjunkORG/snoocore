@@ -1,6 +1,6 @@
 ### Looking for a new maintainer
 
-If interested send me a message on Gitter or Email.
+If interested send me an Email.
 
 It's probably best to use the raw API, or look into alternatives due
 to the lack of updates this library will receive here on out. Reddit
